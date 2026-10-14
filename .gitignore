@@ -1,0 +1,4 @@
+node_modules
+.env
+# practice wiki PDF (not mine to publish)
+*.pdf
